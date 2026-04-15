@@ -183,5 +183,5 @@ Full findings, methodology, recommendations, and a proposed follow-on study are 
 ## 👤 Author
 
 **Jay** — Data Science Portfolio  
-University of Salford | 2026  
+2026  
 [GitHub Profile](https://github.com/dlifeofjay)
